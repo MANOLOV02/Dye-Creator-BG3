@@ -59,13 +59,13 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="LSLib">
-      <HintPath>..\lslib-master\LSLib\bin\Debug\net8.0\LSLib.dll</HintPath>
+      <HintPath>..\..\LSLIB Master\LSLib\bin\Debug\net8.0\LSLib.dll</HintPath>
     </Reference>
     <Reference Include="LZ4">
-      <HintPath>..\lslib-master\ConverterApp\bin\Debug\net8.0-windows\LZ4.dll</HintPath>
+      <HintPath>..\..\LSLIB Master\ConverterApp\bin\Debug\net8.0-windows\LZ4.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Hashing">
-      <HintPath>..\lslib-master\ConverterApp\bin\Debug\net8.0-windows\System.IO.Hashing.dll</HintPath>
+      <HintPath>..\..\LSLIB Master\ConverterApp\bin\Debug\net8.0-windows\System.IO.Hashing.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
